@@ -1,6 +1,6 @@
 Flow com.chris.basic
      Basepath ""
-authService = Call io.jans.as.server.service.AuthenticationService#class auth Server
+authService = Call io.jans.as.server.service.AuthenticationService#class 
 authServiceBean = Call io.jans.service.cdi.util.CdiUtil#bean authService
 authResult = {}
 Repeat 3 times max

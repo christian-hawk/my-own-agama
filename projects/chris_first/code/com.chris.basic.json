@@ -87,7 +87,7 @@
 					"nodeIcon": "material-symbols:line-end-square-rounded"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 800.887072701485,
@@ -472,12 +472,12 @@
 					"javaMethodName": "class",
 					"callType": "Call static method",
 					"logLevel": "info",
-					"arguments": "auth Server",
+					"arguments": "",
 					"displayName": "Create Auth Server Instance",
 					"nodeIcon": "mdi:server"
 				}
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -738,8 +738,8 @@
 		}
 	],
 	"viewport": {
-		"x": 95.39041504652391,
-		"y": -205.56668454567466,
-		"zoom": 0.7558934970509982
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }

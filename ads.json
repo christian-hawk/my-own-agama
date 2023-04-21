@@ -9,5 +9,16 @@
         "githubUri": "https://github.com/christian-hawk/my-own-agama",
         "license": "MIT",
         "lastUpdated": "1681583465525"
+    },
+    "chris_second": {
+        "projectName": "chris_second",
+        "description": "second",
+        "type": "community",
+        "author": "christian-hawk",
+        "version": "0.0.0",
+        "authorWebsite": "https://github.com/christian-hawk/my-own-agama",
+        "githubUri": "https://github.com/christian-hawk/my-own-agama",
+        "license": "MIT",
+        "lastUpdated": "1682110260823"
     }
 }

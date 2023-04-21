@@ -15,7 +15,7 @@
         "description": "second",
         "type": "community",
         "author": "christian-hawk",
-        "version": "0.0.0",
+        "version": "0.0.5",
         "authorWebsite": "https://github.com/christian-hawk/my-own-agama",
         "githubUri": "https://github.com/christian-hawk/my-own-agama",
         "license": "MIT",
